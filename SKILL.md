@@ -1,5 +1,5 @@
 ---
-name: write-mlx-docs-custom
+name: matlab-mlx-docs-skill
 description: >
   Creates custom binary MATLAB Live Code (.mlx) documents programmatically
   for MATLAB R2024a by authoring the OPC/WordprocessingML package directly —

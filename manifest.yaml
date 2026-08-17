@@ -1,5 +1,5 @@
 # Copyright 2026 Javier Blanco
-# manifest.yaml — Tooling metadata for write-mlx-docs-custom
+# manifest.yaml — Tooling metadata for matlab-mlx-docs-skill
 schema-version: 1
 license: LICENSE
 scope: cross-product
