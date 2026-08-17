@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"><w:body><w:p><w:pPr><w:pStyle w:val="title"/><w:jc w:val="left"/></w:pPr><w:r><w:t>Title</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>Body text. Replace with the document content. See references/mlx-format.md for heading, heading2, equation, image, and code-cell markup.</w:t></w:r></w:p><w:p><w:pPr><w:sectPr/></w:pPr></w:p></w:body></w:document>

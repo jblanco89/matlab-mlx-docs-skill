@@ -1,0 +1,14 @@
+# Copyright 2026 Javier Blanco
+# manifest.yaml — Tooling metadata for write-mlx-docs-custom
+schema-version: 1
+license: LICENSE
+scope: cross-product
+version: "1.0"
+human-description: Author binary MATLAB Live Code (.mlx) documents programmatically (OPC/WordprocessingML) for MATLAB R2016a-R2024a with PowerShell pack/verify/word-count checks.
+matlab-release: ">=R2016a,<R2025a"
+required-tools:
+  - evaluate_matlab_code
+  - run_matlab_file
+required-skills: []
+required-products: []
+toolkit: matlab-agentic-toolkit

@@ -1,0 +1,27 @@
+# Build artifacts
+*.mlx
+*.mltbx
+*.mltbxinfo
+
+# Temporary test outputs
+smoke-*.mlx
+smoke.tmp/
+tmp/
+
+# MATLAB caches
+*.asv
+*.m~
+*.mex*
+*.p
+*.slx~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor dirs
+.vscode/
+.idea/
+
+# Logs
+*.log
