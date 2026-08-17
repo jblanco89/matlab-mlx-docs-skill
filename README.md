@@ -1,4 +1,4 @@
-## write-mlx-docs-custom
+## MATLAB mlx documents skills
 
 **Author binary MATLAB Live Code (`.mlx`) documents via the MATLAB Agentic Toolkit.**
 
@@ -29,7 +29,7 @@ This skill scaffolds a complete OPC package — `[Content_Types].xml`, `_rels/.r
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/jblanco/write-mlx-docs-custom.git
+   git clone https://github.com/jblanco89/matlab-mlx-docs-skill.git
    cd write-mlx-docs-custom
    ```
 
